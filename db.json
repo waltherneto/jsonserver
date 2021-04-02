@@ -12,21 +12,21 @@
     },
     {
       "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
+      "category": "comida",
+      "title": "Jardinagem Comunitária",
+      "description": "Junte-se a nós para criar uma comunidade de plantas comestíveis.",
+      "location": "Cidade Flora",
+      "date": "14 de Março de 2022",
       "time": "10:00",
       "organizer": "Fern Pollin"
     },
     {
       "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
+      "category": "sustentabilidade",
+      "title": "Limpeza de Praia",
+      "description": "Ajude-nos a recolher lixo na praia.",
       "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
+      "date": "22 de Julho de 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
     }
