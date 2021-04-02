@@ -2,11 +2,11 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
+      "category": "cuidado animal",
+      "title": "Dia de Adoção de Gatos",
+      "description": "Encontre seu novo amigo felino neste evento.",
       "location": "Meow Town",
-      "date": "January 28, 2022",
+      "date": "28 de Janeiro de 2022",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
