@@ -29,6 +29,16 @@
       "date": "22 de Julho de 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 159,
+      "category": "sustentabilidade",
+      "title": "Limpeza de Praia",
+      "description": "Ajude-nos a recolher lixo na praia.",
+      "location": "Playa Do Por do Sol",
+      "date": "23 de Julho de 2022",
+      "time": "14:00",
+      "organizer": "Diegão"
     }
   ]
 }
